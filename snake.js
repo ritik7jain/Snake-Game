@@ -1,3 +1,5 @@
+//Game by Ritik Jain
+
 class Snake {
   
   constructor() {
