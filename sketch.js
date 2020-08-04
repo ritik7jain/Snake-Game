@@ -1,4 +1,4 @@
-# Game by Ritik Jain
+//Game by Ritik Jain
 
 let video;
 let flipVideo;
